@@ -65,55 +65,26 @@
 </div>
 <div class="gallery">
   <img src="../imagenes/palermo.jpg" width="600" height="400">
-  <div class="desc">Palermo</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/mano.jpg" width="600" height="400">
-  <div class="desc">La Mano De Gigante</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/mirador refugio.png" width="600" height="400">
-  <div class="desc">Mirador Refugio</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/cajagua.avif" width="600" height="400">
-  <div class="desc">Caja De Agua</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/guacharos.jpg" width="600" height="400">
+hfdhkfjsjkfhkjs
   <div class="desc">Cueva De Los Guacharos</div>
 </div>
 <div class="gallery">
   <img src="../imagenes/estrecho.jpg" width="600" height="400">
   <div class="desc">Estrecho Del Magdalena</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/balcondelhuila.jpg" width="600" height="400">
-  <div class="desc">Balcon Del Huila</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/playajuncal.JPG.crdownload" width="600" height="400">
-  <div class="desc">Playa Juncal</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/taitacoco.jpg" width="600" height="400">
-  <div class="desc">Tataicoco</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/oiscinas.webp" width="600" height="400">
-  <div class="desc">Piscinas Del Desierto De La Tatacoa</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/astronomico.jpg" width="600" height="400">
-  <div class="desc">Observatorio Astronomico Del Desierto De La Tatacoa</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/cristo.jpg" width="600" height="400">
+sdbdfsbn,
   <div class="desc">Cristo Mas Grande Del Huila</div>
 </div>
 <div class="gallery">
-  <img src="../imagenes/fondo.webp" width="600" height="400">
-  <div class="desc">Desierto De La Tatacoa</div>
+  <img src="../imagenes/deslizadorarcoirisgigante.jpg" width="600" height="400">
+  <div class="desc">Delizador Arcoiris En Gigante</div>
+</div>
+<div class="gallery">
+  <img src="../imagenes/casadelarbolgigante.jpg" width="600" height="400">
+  <div class="desc">La Casa Del Arbol</div>
+</div>
+<div class="gallery">
+  <img src="../imagenes/miradorlacalera.jpg" width="600" height="400">
+  <div class="desc">Mirador La Calera</div>
 </div>
 <div class="gallery">
   <img src="../imagenes/" width="600" height="400">
