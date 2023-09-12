@@ -2,10 +2,18 @@
 <html lang="en">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
 <body>
-    <div class="container mt5"><center>
-                                            <h1 class="mb-4">ADMINISTRADOR</h1>
+    <div class="container mt5">
+        <center>
+            <div class="card" style="width: 50%;">
+                <div class="card-body" style="background-image: url('../imagenes/administrador.jpg');">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                            <div class="contact-form">
+                                <h1 class="mb-4">ADMINISTRADOR</h1>
                                 <div class="" style="width: 50%;">
                                     <form method="POST" action="valida.php" class="text-center">
                                         <div class="mb-3">
