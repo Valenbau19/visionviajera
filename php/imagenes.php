@@ -72,6 +72,22 @@
   <div class="desc">La Mano De Gigante</div>
 </div>
 <div class="gallery">
+  <img src="../imagenes/miradorlacalera.jpg" width="600" height="400">
+  <div class="desc">Mirador La Calera</div>
+</div>
+<div class="gallery">
+  <img src="../imagenes/fondo.webp" width="600" height="400">
+  <div class="desc">Desierto De La Tatacoa</div>
+</div>
+<div class="gallery">
+  <img src="../imagenes/deslizadorarcoirisgigante.jpg" width="600" height="400">
+  <div class="desc">Delizador Arcoiris En Gigante</div>
+</div>
+<div class="gallery">
+  <img src="../imagenes/cristo.jpg" width="600" height="400">
+  <div class="desc">Cristo Mas Grande Del Huila</div>
+</div>
+<div class="gallery">
   <img src="../imagenes/mirador refugio.png" width="600" height="400">
   <div class="desc">Mirador Refugio</div>
 </div>
@@ -92,8 +108,8 @@
   <div class="desc">Balcon Del Huila</div>
 </div>
 <div class="gallery">
-  <img src="../imagenes/playajuncal.JPG.crdownload" width="600" height="400">
-  <div class="desc">Playa Juncal</div>
+  <img src="../imagenes/estrecho.jpg" width="600" height="400">
+  <div class="desc">Estrecho Rio Magdalena</div>
 </div>
 <div class="gallery">
   <img src="../imagenes/taitacoco.jpg" width="600" height="400">
@@ -108,25 +124,10 @@
   <div class="desc">Observatorio Astronomico Del Desierto De La Tatacoa</div>
 </div>
 <div class="gallery">
-  <img src="../imagenes/cristo.jpg" width="600" height="400">
-  <div class="desc">Cristo Mas Grande Del Huila</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/deslizadorarcoirisgigante.jpg" width="600" height="400">
-  <div class="desc">Delizador Arcoiris En Gigante</div>
-</div>
-<div class="gallery">
   <img src="../imagenes/casadelarbolgigante.jpg" width="600" height="400">
   <div class="desc">La Casa Del Arbol</div>
 </div>
-<div class="gallery">
-  <img src="../imagenes/miradorlacalera.jpg" width="600" height="400">
-  <div class="desc">Mirador La Calera</div>
-</div>
-<div class="gallery">
-  <img src="../imagenes/" width="600" height="400">
-  <div class="desc">Desierto De La Tatacoa</div>
-</div>
+
 
 
 </body>
