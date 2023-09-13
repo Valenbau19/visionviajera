@@ -16,14 +16,14 @@
     $result = $conexion->query($sql);
 
     ?>
-    <div id="carouselExampleDark" class="carousel  slide" height="700px">
+    <div id="carouselExampleDark" class="carousel  slide" data-bs-ride="carousel" height="700px">
         <div class="carousel-inner" height="700px">
             <?php while ($row = $result->fetch_assoc()) {
                 $municipio = $row['municipio'];
                 $descripcion = $row['descripcion'];
                 $foto = $row['foto']; ?>
 
-                <div class="carousel-item  active" height="700px">
+                <div class="carousel-item  active" data-bs-interval="3000" height="700px">
                     <img src="../imagenes/<?= $foto ?>" class="d-block w-100" alt="..." height="700px">
                     <div class="carousel-caption d-none d-md-block">
                         <strong>
