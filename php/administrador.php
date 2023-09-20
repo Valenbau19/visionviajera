@@ -17,7 +17,6 @@
 			<li><a href="../crudusuarios/index.php" >Usuario</a></li>
 			<li><a href="../crudhotel/index.php">Hotel</a></li>
 			<li><a href="../crudDestino/index.php">Destino</a></li>
-			<li><a href="../crudtransporte/index.php">Trasporte</a></li>
 		</ul>
 	</nav>
 </body>

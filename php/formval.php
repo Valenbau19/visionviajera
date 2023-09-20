@@ -9,7 +9,7 @@
     <div class="container mt5">
         <center>
             <div class="card" style="width: 50%;">
-                <div class="card-body" style="background-image: url('../imagenes/dinero.jpg');">
+                <div class="card-body" style="background-image: url('../imagenes/administrador.jpg');">
                     <div class="row justify-content-center">
                         <div class="col-lg-12">
                             <div class="contact-form">
