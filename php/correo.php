@@ -9,6 +9,7 @@ if (isset($_POST)) {
     $pass = 'wwxfgrvzgalkccbc';
     $mailer  = new PHPMailer;
     $mailer->CharSet = 'UTF-8';
+    
     $mailer->isSMTP();
     $mailer->Host = 'smtp.gmail.com';
     $mailer->SMTPAuth = true;
